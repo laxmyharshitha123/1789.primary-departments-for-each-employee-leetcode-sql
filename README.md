@@ -1,0 +1,1 @@
+# 1789.primary-departments-for-each-employee-leetcode-sql
